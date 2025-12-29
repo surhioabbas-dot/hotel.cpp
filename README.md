@@ -1,0 +1,1 @@
+Hotel Management System is a console-based C++ program designed to manage hotel operations such as room booking, customer check-in/check-out, and room availability. This project demonstrates the use of object-oriented programming (OOP) concepts in C++, including classes, objects, and functions.
